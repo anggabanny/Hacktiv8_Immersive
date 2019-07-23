@@ -1,0 +1,62 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="./welcome.html" method="POST">
+        <h1>Buat Account Baru!</h1>
+        <h3>Sign Up Form</h3>
+
+        <p>
+            <label for="first-name">First name:</label>
+            <br>
+            <input type="text" name="firstname" id="first-name" required>
+        </p>
+        <p>
+            <label for="last-name">Last name:</label>
+            <br>
+            <input type="text" name="lastname" id="last-name" required>
+        </p>
+        <p>
+            <label for="gender">Gender:</label>
+            <br>
+            <input type="radio" name="gender" id="male-gender" value="Male" required>
+            <label for="male-gender">Male</label>
+            <br>
+            <input type="radio" name="gender" id="female-gender" value="Female" required>
+            <label for="female-gender">Female</label>
+            <br>
+            <input type="radio" name="gender" id="other-gender" value="Other" required>
+            <label for="other-gender">Other</label>
+        </p>
+        <p>
+        <label for="national">Nationality:</label>
+        <br>
+        <select name="national" id="negara">
+            <option value="indonesian">Indonesian</option>
+            <option value="malaysian">Malaysian</option>
+            <option value="singaporean">Singaporean</option>
+            <option value="australian">Australian</option>
+        </select>
+        <p>
+            <label for="bahasa">Language Spoken:</label>
+            <br>
+            <input type="checkbox" name="bahasa" id="languange-id">
+            <label for="languange-id">Bahasa Indonesia</label>
+            <br>
+            <input type="checkbox" name="bahasa" id="languange-eng">
+            <label for="languange-eng">English</label>
+            <br>
+            <input type="checkbox" name="bahasa" id="languange-oth">
+            <label for="languange-oth">Other</label>
+        </p>
+        <p>
+            <label for="boxBio">Bio:</label>
+            <br>
+            <textarea name="boxBio" id="" cols="25" rows="10"></textarea>
+        </p>
+        <input type="submit" value="Sign Up">
+    </form>
+    
+</body>
+</html>
