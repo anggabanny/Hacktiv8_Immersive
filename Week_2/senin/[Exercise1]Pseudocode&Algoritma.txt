@@ -1,0 +1,80 @@
+-- PSEUDOCODE CHALLENGE --
+ 
+[1. Newton Second Law]
+    A. {ALGORITMA}
+        1. deklarasi 'massa' dengan nilai 600
+        2. deklarasi 'percepatan' dengan nilai 2
+        3. deklarasi 'gaya' tanpa nilai
+        4. hitung nilai 'massa' di kali dengan nilai 'percepatan'
+        5. hasil dari perhitungan dimasukkan kedalam nilai 'gaya'
+        6. panggil gaya untuk mendapatkan hasilnya
+
+    B.{PSEUDOCODE}
+        STORE 'massa' value with 600
+        STORE 'percepatan' value with 2
+        STORE 'gaya' without value
+
+        CALCULATE 'massa' times 'percepatan'
+        SET 'gaya' value with calculate result
+        DISPLAY 'gaya'
+
+[2. Tahun Kabisat]
+    A. {ALGORITMA}
+        1. deklarasi "tahun" dengan nilai bebas
+        2. jika nilai "tahun" 'di bagi 4' sama dengan 0 dan 'di bagi 100' tidak sama dengan 0,
+            3. maka cetak 'ini tahun kabisat'
+        4. atau jika nilai "tahun" 'di bagi 4' sama dengan 0, 'di bagi 100' sama dengan 0, dan 'di bagi 400' sama dengan 0
+            5. maka cetak 'ini tahun kabisat'
+        6. jika kondisi diatas tidak ada yang terpenuhi
+            7. maka cetak 'ini bukan tahun kabisat'
+
+    B.{PSEUDOCODE}
+        STORE 'year' with any value
+
+        IF 'year' MOD 4 equal to 0 AND 'year' MOD 100 no equal to 0
+            DISPLAY 'ini tahun kabisat'
+        ELSE IF 'year' MOD 4 equal to 0 AND 'year' MOD 100 equal to 0 AND 'year' MOD 400 equal to 0
+            DISPLAY 'ini tahun kabisat'
+        ELSE
+            DISPLAY 'ini bukan tahun kabisat'
+
+
+[3. Laundry Day]
+    A. {ALGORITMA}
+        1. masukkan pakaian ke dalam mesin cuci
+        2. hitung pakaian satu per satu kedalam mesin cuci
+        3. jika pakaian belum mencapai 20
+        4. tambahkan pakaian
+        5. jika sudah mencapai 20 pakaian
+        6. jalankan mesin cuci
+
+    B.{PSEUDOCODE}
+        STORE 'clothes' with value 0
+
+        WHILE 'clothes' less than 20
+            ADD 'clothes' value by 1
+        END WHILE
+
+        DISPLAY 'silahkan nyalakan mesin cuci'
+
+[4. Periksa Kuku]
+    A. {ALGORITMA}
+        1. perisa kuku murid satu per satu hingga 40 orang
+        2. jika ada murid berkuku panjang
+            3. hukum murid tersebut
+        4. jika murid tidak berkuku panjang
+            5. puji murid tersebut    
+
+    B.{PSEUDOCODE}
+        STORE 'numberStudent' value with 0
+        STORE 'kuku' with 'panjang' or 'pendek'
+
+        WHILE 'numberStudent' less than 40
+            ADD 'numberStudent' value by 1
+            DISPLAY 'numberStudent'
+                IF 'kuku' Equal to 'panjang'
+                    DISPLAY 'beri hukuman'
+                ELSE
+                    DISPLAY 'beri pujian'
+                END IF
+        END WHILE
