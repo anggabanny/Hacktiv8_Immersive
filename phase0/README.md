@@ -7,4 +7,4 @@
 <h2><a href='https://github.com/anggabanny/h8-p0-w6'>Hacktiv8 Phase 0 Week 6</a></h2>
 <h2><a href='https://github.com/anggabanny/brain-challenge'>LogiCloud</a></h2>
 
-<h6>2019 powered by hacktiv8</h6>
+<h6>2019 powered by hacktiv8.com</h6>
