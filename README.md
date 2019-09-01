@@ -1,1 +1,1 @@
-![hacktiv8 Batch-35](https://github.com/anggabanny/Hacktiv8_Immersive/blob/master/Handbook/img_/initeFx.jpg)
+<img src="https://github.com/anggabanny/Hacktiv8_Immersive/blob/master/Handbook/img_/initeFx.jpg" title='infinte_Fox'>
