@@ -7,9 +7,12 @@
 
 ## [📁🔐: Phase-1 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
 <img src="https://www.safetynetwork.com.au/wp-content/uploads/images/products/441.jpg" width="300">
+
 ## [📁🔐: Phase-2 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
-> COMING SOON! ⛔
+<img src="https://www.safetynetwork.com.au/wp-content/uploads/images/products/441.jpg" width="300">
+
 ## [📁🔐: Phase-3 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
-> FINAL DAY COMING SOON! ⛔
+
+<img src="https://www.safetynetwork.com.au/wp-content/uploads/images/products/441.jpg" width="300">
 
 <h6 align='center'>©️hacktiv8 journal by <a href ='https://github.com/anggabanny'>anggabanny</a></h6>
