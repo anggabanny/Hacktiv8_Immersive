@@ -6,7 +6,7 @@
 #### [▶️: CodeFox Beta V1.0](https://github.com/anggabanny/codefox.github.io)
 
 ## [📁🔐: Phase-1 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
-> COMING SOON! ⛔
+<img src="https://www.safetynetwork.com.au/wp-content/uploads/images/products/441.jpg" width="300">
 ## [📁🔐: Phase-2 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
 > COMING SOON! ⛔
 ## [📁🔐: Phase-3 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
