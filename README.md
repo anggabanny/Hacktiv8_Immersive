@@ -12,4 +12,4 @@
 ## [📁🔐: Phase-3 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
 > FINAL DAY COMING SOON! ⛔
 
-<h6>hacktiv8 journal by <a href ='https://github.com/anggabanny'>anggabanny</a></h6>
+<h6>©️hacktiv8 journal by <a href ='https://github.com/anggabanny'>anggabanny</a></h6>

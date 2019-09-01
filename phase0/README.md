@@ -1,10 +1,9 @@
-<h1>Phase-0</h1>
-<h2><a href='https://github.com/anggabanny/h8-p0-w1'>Hacktiv8 Phase 0 Week 1</a></h2>
-<h2><a href='https://github.com/anggabanny/h8-p0-w2'>Hacktiv8 Phase 0 Week 2</a></h2>
-<h2><a href='https://github.com/anggabanny/h8-p0-w3'>Hacktiv8 Phase 0 Week 3</a></h2>
-<h2><a href='https://github.com/anggabanny/h8-p0-w4'>Hacktiv8 Phase 0 Week 4</a></h2>
-<h2><a href='https://github.com/anggabanny/h8-p0-w5'>Hacktiv8 Phase 0 Week 5</a></h2>
-<h2><a href='https://github.com/anggabanny/h8-p0-w6'>Hacktiv8 Phase 0 Week 6</a></h2>
-<h2><a href='https://github.com/anggabanny/brain-challenge'>LogiCloud</a></h2>
+![alt text](https://github.com/anggabanny/Hacktiv8_Immersive/blob/master/Handbook/img_/initeFx.jpg "Hacktiv8 Batch-35")
+### [✅: Week-1 ](https://github.com/anggabanny/h8-p0-w1)
+### [✅: Week-2 ](https://github.com/anggabanny/h8-p0-w1)
+### [✅: Week-3 ](https://github.com/anggabanny/h8-p0-w1)
+### [✅: Week-4 ](https://github.com/anggabanny/h8-p0-w1)
+### [✅: Week-5 ](https://github.com/anggabanny/h8-p0-w1)
+### [✅: Week-6 ](https://github.com/anggabanny/h8-p0-w1)
 
-<h6>2019 powered by hacktiv8.com</h6>
+<h6>©️hacktiv8 journal by <a href ='https://github.com/anggabanny'>anggabanny</a></h6>
