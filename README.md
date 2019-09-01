@@ -5,14 +5,11 @@
 #### [▶️: Website witch HTML and CSS ](https://anggabanny.github.io/)
 #### [▶️: CodeFox Beta V1.0](https://github.com/anggabanny/codefox.github.io)
 
-## [📁🔒: Phase-1 ](https://hacktiv8.com/fullstack/apply/)
-### [4 weeks]
-> ⛔️
-## [📁🔒: Phase-2 ](https://hacktiv8.com/fullstack/apply/)
-### [4 weeks]
-> ⛔️
-## [📁🔒: Phase-3 ](https://hacktiv8.com/fullstack/apply/)
-### [4 weeks]
-> Final Project Apps ⛔️
+## [📁🔓: Phase-1 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
+> COMING SOON! ⛔
+## [📁🔓: Phase-2 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
+> COMING SOON! ⛔
+## [📁🔓: Phase-3 ](https://hacktiv8.com/fullstack/apply/) &nbsp; &nbsp; [4 Weeks]
+> FINAL DAY COMING SOON! ⛔
 
 <h6>hacktiv8 journal by <a href ='https://github.com/anggabanny'>anggabanny</a></h6>
