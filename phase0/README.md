@@ -6,4 +6,4 @@
 ### [✅: Week-5 ](https://github.com/anggabanny/h8-p0-w1)
 ### [✅: Week-6 ](https://github.com/anggabanny/h8-p0-w1)
 
-<h6>©️hacktiv8 journal by <a href ='https://github.com/anggabanny'>anggabanny</a></h6>
+<h6 align='center'>©️hacktiv8 journal by <a href ='https://github.com/anggabanny'>anggabanny</a></h6>
